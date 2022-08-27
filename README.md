@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LukiStudios
-- 👀 I’m currently working on an android app to help my classmates cheat in maths
-- 🌱 and I’m learning java and bash
+- 🌱 I’m learning java and rust
 
 <!---
 LukiStudios/LukiStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
